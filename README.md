@@ -1,5 +1,5 @@
 # ThumbnailMaker
-概要は https://lookbackmargin.home.blog/2019/10/04/npsh-ver-2/
+概要は https://lookbackmargin.blog/2019/10/04/npsh-ver-2/
 
 ## 依存
 - Inkscape
